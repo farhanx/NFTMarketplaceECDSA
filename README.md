@@ -1,4 +1,4 @@
-# Lazy Minting Process for NFT Package after ECDSA Signing from the Marketplace or minter 
+# Lazy Minting Process for ERC712 NFT Package after ECDSA Signing from the Marketplace or minter (EIP 712)
 
 This project will demonstrate how you can use dAPP backend system to create a signed package using Ether.js and then sign an NFT Package by complying with EIP712 standard for an ERC712 NFT token. Inside the Smart contract the verification of the NFT signed package is done before processing the Lazy Minting. 
 
